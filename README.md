@@ -1,4 +1,5 @@
-# Table of Contents
+# Toman Bike Share Analysis
+## Table of Contents
 
 - [Objective](#objective)
 - [Data Source](#data-source)
@@ -166,7 +167,7 @@ The potential courses of action for the project are as follows:
 - Make any necessary adjustments to the project to ensure that it is successful.
 
 # Conclusion
-Here is the Final Project:
+Here is the Final Project: https://github.com/IanOchiengAI/Toman-Bike-Share-Dashboard/blob/main/Bike%20Project.pbix
 
 The conclusion of the project is as follows:
 - The project was successful in developing a dashboard for Toman Bike Share that displays key performance metrics for informed decision-making.
